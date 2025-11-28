@@ -1,0 +1,267 @@
+{
+  "branding": {
+    "name": "el jarding",
+    "tagline": "Where Culinary Art Meets Elegance",
+    "description": "Experience fine dining at its finest",
+    "logo": {
+      "url": "/logo.png",
+      "alt": "Le Jardin Élégant Logo"
+    }
+  },
+  "theme": {
+    "colors": {
+      "primary": "#d97706",
+      "primaryDark": "#b45309",
+      "primaryLight": "#f59e0b",
+      "secondary": "#0f172a",
+      "accent": "#fbbf24",
+      "background": "#ffffff",
+      "text": "#0f172a"
+    },
+    "fonts": {
+      "heading": "Playfair Display",
+      "body": "Inter"
+    }
+  },
+  "hero": {
+    "title": "Le Jardin Élégant",
+    "subtitle": "Where Culinary Art Meets Elegance",
+    "description": "Experience fine dining at its finest",
+    "backgroundImage": {
+      "id": "photo-1414235077428-338989a2e8c0",
+      "alt": "Elegant fine dining restaurant interior"
+    },
+    "buttons": [
+      {
+        "text": "Reserve a Table",
+        "action": "openReservation",
+        "variant": "primary"
+      },
+      {
+        "text": "View Menu",
+        "action": "scrollToMenu",
+        "variant": "outline"
+      }
+    ]
+  },
+  "about": {
+    "title": "Our Story",
+    "paragraphs": [
+      "Since 2010, Le Jardin Élégant has been a beacon of culinary excellence, nestled in the heart of New York City. Our journey began with a simple vision: to create an unforgettable dining experience that marries classical French techniques with contemporary innovation.",
+      "Every dish that leaves our kitchen tells a story—a narrative woven through locally-sourced ingredients, meticulous preparation, and an unwavering commitment to perfection. Our award-winning chef brings over 20 years of Michelin-star experience to every plate.",
+      "We believe that dining is not just about food; it's about creating memories. From our carefully curated wine selection to our attentive service, every detail is designed to transport you to a world of refined elegance."
+    ],
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years of Excellence"
+      },
+      {
+        "value": "2",
+        "label": "Michelin Stars"
+      },
+      {
+        "value": "50K+",
+        "label": "Happy Guests"
+      },
+      {
+        "value": "100%",
+        "label": "Locally Sourced"
+      }
+    ]
+  },
+  "menu": {
+    "title": "Culinary Excellence",
+    "subtitle": "Explore our signature dishes, each crafted with passion and precision",
+    "items": [
+      {
+        "id": "1",
+        "name": "Pan-Seared Scallops",
+        "category": "Appetizer",
+        "description": "Wild-caught scallops with cauliflower purée and truffle essence",
+        "price": "$42"
+      },
+      {
+        "id": "2",
+        "name": "Wagyu Beef Tenderloin",
+        "category": "Main Course",
+        "description": "A5 Japanese Wagyu with roasted vegetables and red wine reduction",
+        "price": "$125"
+      },
+      {
+        "id": "3",
+        "name": "Lobster Risotto",
+        "category": "Main Course",
+        "description": "Creamy Arborio rice with Maine lobster and saffron",
+        "price": "$78"
+      },
+      {
+        "id": "4",
+        "name": "Chocolate Soufflé",
+        "category": "Dessert",
+        "description": "Dark chocolate soufflé with vanilla bean ice cream",
+        "price": "$24"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Experience the Ambiance",
+    "subtitle": "A visual journey through our culinary artistry and elegant atmosphere",
+    "images": [
+      {
+        "id": "photo-1517248135467-4c7edcad34c4",
+        "alt": "Gourmet dish presentation"
+      },
+      {
+        "id": "photo-1559339352-11d035aa65de",
+        "alt": "Fine dining experience"
+      },
+      {
+        "id": "photo-1555939594-58d7cb561ad1",
+        "alt": "Exquisite food plating"
+      },
+      {
+        "id": "photo-1544148103-0773bf10d330",
+        "alt": "Restaurant ambiance"
+      },
+      {
+        "id": "photo-1551218808-94e220e084d2",
+        "alt": "Culinary artistry"
+      },
+      {
+        "id": "photo-1592861956120-e524fc739696",
+        "alt": "Chef preparing dish"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Guests Say",
+    "subtitle": "Stories from those who have experienced our culinary journey",
+    "items": [
+      {
+        "id": "1",
+        "name": "Sarah Mitchell",
+        "role": "Food Critic",
+        "rating": 5,
+        "comment": "An extraordinary dining experience that exceeded all expectations. The attention to detail in every dish is remarkable."
+      },
+      {
+        "id": "2",
+        "name": "James Chen",
+        "role": "Business Executive",
+        "rating": 5,
+        "comment": "Le Jardin Élégant has become my go-to for important dinners. The service is impeccable and the food is consistently outstanding."
+      },
+      {
+        "id": "3",
+        "name": "Emily Rodriguez",
+        "role": "Wedding Planner",
+        "rating": 5,
+        "comment": "I've recommended this restaurant to countless clients. It never disappoints and creates unforgettable moments."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Visit Us",
+    "subtitle": "We look forward to welcoming you to an exceptional dining experience",
+    "address": {
+      "street": "123 Gourmet Boulevard",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": "United States"
+    },
+    "phone": "+1 (555) 123-4567",
+    "email": "reservations@lejardinelegant.com",
+    "hours": {
+      "monday": "5:00 PM - 10:00 PM",
+      "tuesday": "5:00 PM - 10:00 PM",
+      "wednesday": "5:00 PM - 10:00 PM",
+      "thursday": "5:00 PM - 10:00 PM",
+      "friday": "5:00 PM - 11:00 PM",
+      "saturday": "5:00 PM - 11:00 PM",
+      "sunday": "Closed"
+    },
+    "social": {
+      "instagram": "https://instagram.com/lejardinelegant",
+      "facebook": "https://facebook.com/lejardinelegant",
+      "twitter": "https://twitter.com/lejardinelegant"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Menu",
+        "href": "#menu"
+      },
+      {
+        "label": "Gallery",
+        "href": "#gallery"
+      },
+      {
+        "label": "Reviews",
+        "href": "#testimonials"
+      },
+      {
+        "label": "Contact",
+        "href": "#contact"
+      }
+    ],
+    "reserveButtonText": "Reserve"
+  },
+  "footer": {
+    "aboutText": "An exceptional fine dining experience in the heart of {city}. Reserve your table today and discover culinary artistry.",
+    "copyrightText": "All rights reserved."
+  },
+  "reservationForm": {
+    "title": "Reserve Your Table",
+    "fields": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "John Doe"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "john@example.com"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "+1 (555) 123-4567"
+      },
+      "date": {
+        "label": "Date"
+      },
+      "time": {
+        "label": "Time"
+      },
+      "partySize": {
+        "label": "Party Size"
+      },
+      "specialRequests": {
+        "label": "Special Requests (Optional)",
+        "placeholder": "Dietary restrictions, celebrations, accessibility needs, etc."
+      }
+    },
+    "submitButton": "Reserve Table",
+    "submittingButton": "Submitting...",
+    "successMessage": "Reservation submitted successfully! We'll send you a confirmation email shortly.",
+    "errorMessage": "Failed to submit reservation. Please try again or call us directly."
+  },
+  "seo": {
+    "title": "{name} | Fine Dining in {city}",
+    "description": "{description}. Located in {city}, offering exquisite cuisine and an unforgettable dining experience.",
+    "keywords": [
+      "fine dining",
+      "restaurant",
+      "gourmet",
+      "upscale dining",
+      "French cuisine",
+      "Michelin star",
+      "culinary experience"
+    ]
+  }
+}
